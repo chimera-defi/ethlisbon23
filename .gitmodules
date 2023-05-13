@@ -1,0 +1,3 @@
+[submodule "linea/linea/lib/forge-std"]
+	path = linea/linea/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
