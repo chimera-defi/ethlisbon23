@@ -1,11 +1,12 @@
 # About 
 
-A public good RPC. Funded by NFT communities. 
+A public good in the form of an open RPC. Funded by NFT communities. 
 This RPC:
 - does not censor
 - can be used permissionlessly by anyone
 - reduces a large centralization vector in Ethereum where 2-3 players control all RPC requests
 - Can be faster at getting TXs included in case other RPCs are throttled or slow. 
+- Doesnt have a conflict of interest between profit maxing and benefiting the community
 
 This repo contains scripts used to setup the server, based on eth2-quickstart. 
 
@@ -34,4 +35,4 @@ curl -X POST https://mainnet.sharedtools.org/apecoinrpc --data '{"jsonrpc":"2.0"
 
 # Frontend interactive story
 
-https://68i5i2rxwzw.typeform.com/to/F8pyb0Gr?typeform-source=68i5i2rxwzw.typeform.com
+https://68i5i2rxwzw.typeform.com/to/F8pyb0Gr
